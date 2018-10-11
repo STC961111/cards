@@ -33,7 +33,7 @@ html {
 }
 .cards dt {
   display: inline-block;
-  width: 6em
+  width: 6em;
   font-style: italic;
 }
 .cards dd {
