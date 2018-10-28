@@ -4,7 +4,8 @@ html {
   font-family: Georgia, serif;
   line-height: 1.5;
 }
-*, *::before,*::after {
+
+  *, *::before, *::after {
  box-sizing: inherit;
 }
 
@@ -15,7 +16,7 @@ html {
   text-align: center;
 }
 
-.card li{
+.card li {
   display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
