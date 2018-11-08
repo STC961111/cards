@@ -16,7 +16,7 @@ html {
   text-align: center;
 }
 
-.card li {
+.cards li {
   display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
@@ -58,7 +58,7 @@ html {
   text-align: center;
 }
 
-.card a {
+.cards a {
   display: inline-block;
   padding: .5em .75em;
   background-color: #ccc;
@@ -67,7 +67,7 @@ html {
   text-decoration: none;
 }
 
-.card a:hover {
+.cards a:hover {
   background-color: #333;
   color: #fff;
 }
